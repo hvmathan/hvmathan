@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hvmathan
-- 👀 I’m interested in Data Engineering and DevOps
-- 🌱 I’m currently learning on Dockers and its integeration with AWS
-- 💞️ I’m looking to collaborate on anything related to DevOps on AWS
-- 📫 How to reach me - hvmathan@yahoo.com
+- Hi, I’m @hvmathan
+- Experienced and excited to discuss about Data Engineering, Databases and DevOps
+- I’m looking to collaborate on anything related to DevOps on AWS
+- Into the world of ML and AI currently
+- How to reach me - harshavignesh1@gmail.com
 
 <!---
 hvmathan/hvmathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
